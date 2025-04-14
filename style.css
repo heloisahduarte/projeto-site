@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: rgb(92, 36, 223);
+    background-image: linear-gradient(to bottom right, rgb(92, 36, 223), rgb(238, 89, 20));
+    background-attachment: fixed;
 }
 
 main {
